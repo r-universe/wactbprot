@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "R4CouchDB"]
 	path = R4CouchDB
 	url = https://github.com/wactbprot/r4couchdb
-	shallow = true
 	subdir = R4CouchDB
-	registered = true
